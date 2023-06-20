@@ -27,6 +27,7 @@
 
 Booking
 
+https://bookmyshowbackend-production.up.railway.app/api/booking
 
 # Environment Variable
 
@@ -34,8 +35,11 @@ The enviroment variables need to be added to the .env file regarding mongodb in 
 
 # Deployment
 
-* Frontend-
-* Backend-
+* Frontend- 1. https://bookmyshow-frontend-eight.vercel.app/
+
+
+* Backend-  1. https://bookmyshowbackend-production.up.railway.app
+            2. https://bookmyshowbackend-production.up.railway.app/api/booking
 
 
 # This project is Made by Sahil Deshmukh
