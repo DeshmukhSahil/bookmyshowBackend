@@ -44,7 +44,7 @@ The enviroment variables need to be added to the .env file regarding mongodb in 
 
 # Video Link
 
-* https://youtu.be/RF0WVkxXP20
+* https://youtu.be/Lkw7vn6aWbQ
 
 
 # This project is Made by Sahil Deshmukh
